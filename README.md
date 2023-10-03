@@ -1,6 +1,6 @@
 <h1 align="center">Hi ! , I'm Rizal Pratama</h1>
 <h3 align="center">Software Engineer</h3>
-<img align = "right" alt = "Coding" witdh = "400" height = "400" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"></img>
+<img align = "right" alt = "Coding" witdh = "350" height = "350" src = "https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zalllrizalll&label=Profile%20views&color=0e75b6&style=flat" alt="zalllrizalll" /> </p>
 

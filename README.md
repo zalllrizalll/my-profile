@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zalllrizalll](https://github.com/zalllrizalll)
 
-- 💬 Ask me about **JavaScript, Java, Golang, C++**
+- 💬 Ask me about **JavaScript, PHP, Java, Golang, C++**
 
 - 📫 How to reach me **zalllrizalll012@gmail.com**
 

@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/zalllrizalll" target="blank"><img src="https://img.shields.io/twitter/follow/zalllrizalll?logo=twitter&style=for-the-badge" alt="@zalllrizalll" /></a> </p>
 
-- 🌱 I’m currently learning **React JS, Node JS**
+- 🌱 I’m currently learning **Kotlin, Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zalllrizalll](https://github.com/zalllrizalll)
 
-- 💬 Ask me about **JavaScript, PHP, Java, Golang, C++**
+- 💬 Ask me about **JavaScript, PHP, Java, Kotlin, Dart, Typescript**
 
 - 📫 How to reach me **zalllrizalll012@gmail.com**
 

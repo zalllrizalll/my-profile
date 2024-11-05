@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **zalllrizalll012@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-rizal-pratama-785b26240/](https://www.linkedin.com/in/muhammad-rizal-pratama-785b26240/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammad-rizal-pratama](https://www.linkedin.com/in/muhammad-rizal-pratama)
 
 - ⚡ Fun fact **I love funny things**
 
